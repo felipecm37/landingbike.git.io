@@ -54,6 +54,7 @@ body {
   color: #010201;
 }
 
+
 /*header section*/
 .hero_area {
   height: 100vh;
@@ -211,8 +212,9 @@ a:focus {
 }
 
 .navbar-brand img {
-  width: 125px;
+  width: 105px;
   margin-right: 5px;
+  margin-bottom: 15px;
 }
 
 .navbar-brand.brand_mobile {
